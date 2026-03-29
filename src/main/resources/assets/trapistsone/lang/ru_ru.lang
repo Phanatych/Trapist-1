@@ -1,0 +1,16 @@
+itemGroup.trapistsone.trapist_blocks=Блоки TRAPPIST
+
+tile.trapistsone.trappist_1b_basalt_rock.name=Базальт TRAPPIST-1b
+tile.trapistsone.trappist_1b_dark_veined_rock.name=Тёмно-жильная порода TRAPPIST-1b
+tile.trapistsone.trappist_1b_oxidized_stone.name=Окисленный камень TRAPPIST-1b
+
+tile.trapistsone.trappist_1c_cracks_in_the_dry_soil.name=Трещины в сухой почве (TRAPPIST-1c)
+tile.trapistsone.trappist_1c_sandy_soil.name=Песчаная почва (TRAPPIST-1c)
+tile.trapistsone.trappist_1c_the_rocky_desert.name=Каменистая пустыня (TRAPPIST-1c)
+
+tile.trapistsone.trappist_1f_ice_co2.name=Лёд из CO2 (TRAPPIST-1f)
+tile.trapistsone.trappist_1f_ice_salt_water.name=Лёд из соленой воды (TRAPPIST-1f)
+
+gui.trapistsone.temperature=Температура: %s °C
+gui.trapistsone.oxygen=Кислород: %s%%
+gui.trapistsone.gravity=Гравитация: %s g

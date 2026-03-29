@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "trapistsone:blocks/trappist_1b_basalt_rock"
+  }
+}

@@ -1,0 +1,16 @@
+itemGroup.trapistsone.trapist_blocks=TRAPPIST Blocks
+
+tile.trapistsone.trappist_1b_basalt_rock.name=TRAPPIST-1b Basalt Rock
+tile.trapistsone.trappist_1b_dark_veined_rock.name=TRAPPIST-1b Dark Veined Rock
+tile.trapistsone.trappist_1b_oxidized_stone.name=TRAPPIST-1b Oxidized Stone
+
+tile.trapistsone.trappist_1c_cracks_in_the_dry_soil.name=TRAPPIST-1c Cracks in the Dry Soil
+tile.trapistsone.trappist_1c_sandy_soil.name=TRAPPIST-1c Sandy Soil
+tile.trapistsone.trappist_1c_the_rocky_desert.name=TRAPPIST-1c The Rocky Desert
+
+tile.trapistsone.trappist_1f_ice_co2.name=Ice from CO2 (TRAPPIST-1f)
+tile.trapistsone.trappist_1f_ice_salt_water.name=Ice from Salt Water (TRAPPIST-1f)
+
+gui.trapistsone.temperature=Temperature: %s °C
+gui.trapistsone.oxygen=Oxygen: %s%%
+gui.trapistsone.gravity=Gravity: %s g

@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "trapistsone:blocks/trappist_1c_cracks_in_the_dry_soil"
+  }
+}
+

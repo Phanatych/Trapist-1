@@ -1,0 +1,16 @@
+[
+{
+  "modid": "trapistsone",
+  "name": "TRAPPIST-1 Mod",
+  "description": "A mod for Minecraft 1.12.2 based on the Minecraft Forge framework.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["TRAPIST-1 Team"],
+  "credits": "The Forge and FML guys, for making this mod possible",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
